@@ -13,6 +13,9 @@ const MarketingPage = () => {
                     work forward.
                 </div>
             </div>
+            <div>
+                Collaborate, manage projects, and reach new productivity peaks. From
+            </div>
         </div>
     )
 }
